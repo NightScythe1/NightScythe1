@@ -1,4 +1,4 @@
-## Hi there 👋
+## I'm Night! I run some small Minecraft server communities, and I create custom configs for the Magic plugin!
 
 <!--
 **NightScythe1/NightScythe1** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
